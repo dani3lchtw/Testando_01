@@ -1,3 +1,3 @@
-const = 'mercado pago'
+const = 'pagamento'
 
-console, log(m)
+console, log(m, p)
