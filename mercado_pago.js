@@ -1,4 +1,3 @@
 const = 'mercado pago'
-const = 'devedor'
 
-console, log(m)
+console, log(m, p)
